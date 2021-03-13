@@ -31,37 +31,12 @@ j.â€™, where i and j are the prices of the books whose sum is equal do M and i â
 is always possible to find a solution, if there are multiple solutions print the solution that minimizes
 the difference between the prices i and j. After each test case you must print a blank line.
 
-Sample Input
-
-2
-
-40 40
-
-80
-
-
-
-
-5
-
-2 10 6 8 4
-
-10
-
-
-
-Sample Output
-
-Peter should buy books whose prices are 40 and 40.
-
-Peter should buy books whose prices are 4 and 6.
-
-
 
 Here's how this input (green) / output (white) looks in this code: 
 
-![Screenshot](Screenshot-2.png)
+![Screenshot](Screenshot_2.png)
+
 
 Also, here's the response after being submitted to online judge: 
 
-![Screenshot](Screenshot-3.png)
+![Screenshot](Screenshot_3.png)
