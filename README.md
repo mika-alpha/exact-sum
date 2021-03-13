@@ -34,7 +34,9 @@ the difference between the prices i and j. After each test case you must print a
 Sample Input
 
 2
+
 40 40
+
 80
 
 
