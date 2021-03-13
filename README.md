@@ -37,9 +37,14 @@ Sample Input
 40 40
 80
 
+
+
 5
-10 2 6 8 4
+
+2 10 6 8 4
+
 10
+
 
 
 Sample Output
