@@ -32,6 +32,10 @@ is always possible to find a solution, if there are multiple solutions print the
 the difference between the prices i and j. After each test case you must print a blank line.
 
 
+![Screenshot](Screenshot_1.png)
+
+
+
 Here's how this input (green) / output (white) looks in this code: 
 
 ![Screenshot](Screenshot_2.png)
