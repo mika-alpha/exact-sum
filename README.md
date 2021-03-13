@@ -4,7 +4,7 @@ please, first read the repository's about.
 
 The compiled code is inside out/production/LoginAndUserAccounts since this was made using Intellij Idea.
 
-This is a problem from Online Judge which you can find in : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1998
+This is a problem from Online Judge which you can find in : shorturl.at/mAPXZ (UVa 11057)
 
 The enunciate was the next: 
 
