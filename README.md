@@ -41,6 +41,7 @@ Sample Input
 
 
 
+
 5
 
 2 10 6 8 4
@@ -54,6 +55,7 @@ Sample Output
 Peter should buy books whose prices are 40 and 40.
 
 Peter should buy books whose prices are 4 and 6.
+
 
 
 Here's how this input (green) / output (white) looks in this code: 
