@@ -34,12 +34,20 @@ the difference between the prices i and j. After each test case you must print a
 Sample Input
 
 2
+
 40 40
+
 80
 
+
+
+
 5
-10 2 6 8 4
+
+2 10 6 8 4
+
 10
+
 
 
 Sample Output
@@ -47,6 +55,7 @@ Sample Output
 Peter should buy books whose prices are 40 and 40.
 
 Peter should buy books whose prices are 4 and 6.
+
 
 
 Here's how this input (green) / output (white) looks in this code: 
