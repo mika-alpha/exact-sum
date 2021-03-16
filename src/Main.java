@@ -4,11 +4,12 @@ import java.util.Arrays;
 public class Main {
 
     public static int[] array;
-    public static int[] pSolutions = new int[2];
+    public static int[] pSolutions;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        pSolutions = new int[2];
         String line = br.readLine();
         while(line!=null) {
             int size = Integer.parseInt(line);
